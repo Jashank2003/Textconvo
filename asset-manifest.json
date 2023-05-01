@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textconvo/static/css/main.e6c13ad2.css",
+    "main.js": "/Textconvo/static/js/main.fbe9fb09.js",
+    "static/js/787.a4e1fffc.chunk.js": "/Textconvo/static/js/787.a4e1fffc.chunk.js",
+    "index.html": "/Textconvo/index.html",
+    "main.e6c13ad2.css.map": "/Textconvo/static/css/main.e6c13ad2.css.map",
+    "main.fbe9fb09.js.map": "/Textconvo/static/js/main.fbe9fb09.js.map",
+    "787.a4e1fffc.chunk.js.map": "/Textconvo/static/js/787.a4e1fffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fbe9fb09.js"
+  ]
+}
